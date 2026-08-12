@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "agent": "VEGA v3.0",
+    "timestamp": "2026-08-12T05:30:22.632631+00:00",
+    "scope": "best-sources + all-sources-filtered",
+    "total_papers_indexed": 49
+  },
+  "best_sources": [
+    {
+      "filename": "A Layered Security Framework Against Prompt Injection.json",
+      "title": "ICCKTransactionsonInformationSecurityandCryptography",
+      "pages": 20,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 18
+    },
+    {
+      "filename": "A_Benchmarking_Study_of_Multi-Layer_Security_Filters_for_Secure_RAG_Pipelines.json",
+      "title": "A Benchmarking Study of Multi-Layer Security",
+      "pages": 6,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 3
+    },
+    {
+      "filename": "A_Comprehensive_Framework_for_Secure_Multi-Agent_Retrieval-Augmented_Generation_Systems.json",
+      "title": "A Comprehensive Framework for Secure",
+      "pages": 7,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 3
+    },
+    {
+      "filename": "ATAG AI-Agent Application Threat Assessment with Attack Graphs.json",
+      "title": "ATAG: AI-Agent Application Threat Assessment",
+      "pages": 15,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 6
+    },
+    {
+      "filename": "Automated adversarial red-teaming for evaluating robustness in LLM-based recommender systems.json",
+      "title": "Shehmir and Kashef Discover Artificial Intelligence (2026) 6:759 Discover Artificial Intelligence",
+      "pages": 22,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 8
+    },
+    {
+      "filename": "Clouding the Mirror Stealthy Prompt Injection Attacks Targeting.json",
+      "title": "Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting",
+      "pages": 17,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 20
+    },
+    {
+      "filename": "Cross-layer contagion of prompt injections in multi-agent swarms a multiplex microscopic markov chain approach.json",
+      "title": "Le et al. Cybersecurity (2026) 9:191 Cybersecurity",
+      "pages": 25,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 5
+    },
+    {
+      "filename": "EmoRAG Evaluating RAG Robustness to Symbolic Perturbations.json",
+      "title": "EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations",
+      "pages": 12,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 4
+    },
+    {
+      "filename": "FlippedRAG Black-Box Opinion Manipulation Adversarial Attacks to Retrieval-Augmented Generation Models.json",
+      "title": "FlippedRAG: Black-Box Opinion Manipulation Adversarial",
+      "pages": 15,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 4
+    },
+    {
+      "filename": "Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications.json",
+      "title": "Human-Imperceptible Retrieval Poisoning Attacks in",
+      "pages": 5,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 7
+    },
+    {
+      "filename": "Indirect prompt injection in large language models.json",
+      "title": "Neural Comput & Applic (2026) 38:530",
+      "pages": 21,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 13
+    },
+    {
+      "filename": "Multi-Agent AI Framework for Threat Mitigation and Resilience in Machine Learning Systems.json",
+      "title": "Multi-Agent AI Framework for Threat Mitigation and Resilience in",
+      "pages": 71,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 8
+    },
+    {
+      "filename": "Phantom General Backdoor Attacks on Retrieval Augmented Language Generation.json",
+      "title": "Phantom: General Backdoor Attacks on Retrieval Augmented",
+      "pages": 30,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 9
+    },
+    {
+      "filename": "Quantifying Return on Security Controls in LLM.json",
+      "title": "Quantifying Return on Security Controls in LLM",
+      "pages": 13,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 6
+    },
+    {
+      "filename": "Securing LLM-as-a-Service for Small Businesses An IndustryCase Study of a Distributed Chatbot Deployment Platform.json",
+      "title": "Securing LLM-as-a-Service for Small Businesses: An Industry",
+      "pages": 6,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 3
+    },
+    {
+      "filename": "The Hidden Threat in Plain Text Attacking RAG Data Loaders.json",
+      "title": "The Hidden Threat in Plain Text: Attacking RAG Data Loaders",
+      "pages": 12,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 8
+    },
+    {
+      "filename": "Towards Hijacking the Actions of Large Language Model-based Applications.json",
+      "title": "2v70801.2142:viXra",
+      "pages": 19,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 13
+    },
+    {
+      "filename": "Towards Trustworthy Retrieval Augmented Generation for LargeLanguage Models A Survey.json",
+      "title": "Towards Trustworthy Retrieval Augmented Generation for Large",
+      "pages": 37,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 12
+    },
+    {
+      "filename": "Traceback of Poisoning Attacks to Retrieval-AugmentedGeneration.json",
+      "title": "Traceback of Poisoning Attacks to Retrieval-Augmented",
+      "pages": 13,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 7
+    },
+    {
+      "filename": "Trust-Aware_Orchestration_Architecture_for_LLM-Assisted_Workflows_in_Multi-Tenant_Enterprise_Systems.json",
+      "title": "Received19May2026,accepted15June2026,dateofpublication22June2026,dateofcurrentversion1July2026.",
+      "pages": 24,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 3
+    },
+    {
+      "filename": "Veritas_Dynamic_Evaluation_Framework_for_Rag_Systems_Defense_Against_Prompt_Injection_Attacks.json",
+      "title": "Veritas: Dynamic Evaluation Framework for RAG",
+      "pages": 6,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 4
+    }
+  ],
+  "all_sources_filtered": [
+    {
+      "filename": "A Layered Security Framework Against Prompt Injection.json",
+      "title": "ICCKTransactionsonInformationSecurityandCryptography",
+      "pages": 20,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 18
+    },
+    {
+      "filename": "A survey on large language models with multilingualism recent advances and new frontiers.json",
+      "title": "et al. [full author details at the end of the article]",
+      "pages": 64,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 15
+    },
+    {
+      "filename": "A survey on privacy risks and protection in large language models.json",
+      "title": "JournalofKingSaudUniversityComputerandInformationSciences(2025)37:163",
+      "pages": 23,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 8
+    },
+    {
+      "filename": "A systematic review of natural language interfaces for databases.json",
+      "title": "REVIEW ARTICLE",
+      "pages": 27,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 3
+    },
+    {
+      "filename": "A Virtual Lab for Learning AI Security and Adversarial Prompt Engineering.json",
+      "title": "A Virtual Lab for Learning AI Security and Adversarial Prompt",
+      "pages": 7,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 6
+    },
+    {
+      "filename": "A_Benchmarking_Study_of_Multi-Layer_Security_Filters_for_Secure_RAG_Pipelines.json",
+      "title": "A Benchmarking Study of Multi-Layer Security",
+      "pages": 6,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 3
+    },
+    {
+      "filename": "A_Comprehensive_Framework_for_Secure_Multi-Agent_Retrieval-Augmented_Generation_Systems.json",
+      "title": "A Comprehensive Framework for Secure",
+      "pages": 7,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 3
+    },
+    {
+      "filename": "AI Agents Under Threat A Survey of Key Security Challenges and Future Pathways.json",
+      "title": "AI Agents Under Threat: A Survey of Key Security",
+      "pages": 36,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 7
+    },
+    {
+      "filename": "Analysis of LLMs Against Prompt Injection and Jailbreak Attacks.json",
+      "title": "Analysis of LLMs Against Prompt Injection and Jailbreak Attacks",
+      "pages": 12,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 7
+    },
+    {
+      "filename": "ATAG AI-Agent Application Threat Assessment with Attack Graphs.json",
+      "title": "ATAG: AI-Agent Application Threat Assessment",
+      "pages": 15,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 6
+    },
+    {
+      "filename": "Clouding the Mirror Stealthy Prompt Injection Attacks Targeting.json",
+      "title": "Clouding the Mirror: Stealthy Prompt Injection Attacks Targeting",
+      "pages": 17,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 20
+    },
+    {
+      "filename": "EmoRAG Evaluating RAG Robustness to Symbolic Perturbations.json",
+      "title": "EmoRAG: Evaluating RAG Robustness to Symbolic Perturbations",
+      "pages": 12,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 4
+    },
+    {
+      "filename": "Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications.json",
+      "title": "Human-Imperceptible Retrieval Poisoning Attacks in",
+      "pages": 5,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 7
+    },
+    {
+      "filename": "Indirect prompt injection in large language models.json",
+      "title": "Neural Comput & Applic (2026) 38:530",
+      "pages": 21,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 13
+    },
+    {
+      "filename": "Phantom General Backdoor Attacks on Retrieval Augmented Language Generation.json",
+      "title": "Phantom: General Backdoor Attacks on Retrieval Augmented",
+      "pages": 30,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 9
+    },
+    {
+      "filename": "Quantifying Return on Security Controls in LLM.json",
+      "title": "Quantifying Return on Security Controls in LLM",
+      "pages": 13,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 6
+    },
+    {
+      "filename": "Safeguarding large language models a survey.json",
+      "title": "et al. [full author details at the end of the article]",
+      "pages": 56,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 11
+    },
+    {
+      "filename": "Security and Privacy Challenges of Large Language Models A Survey.json",
+      "title": "Security and Privacy Challenges of Large Language Models:",
+      "pages": 39,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 10
+    },
+    {
+      "filename": "Survey on LLM Safety Attacks, Defenses, Alignment, Metrics, and Guardrails.json",
+      "title": "Machine Learning (2026) 115:130",
+      "pages": 36,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 14
+    },
+    {
+      "filename": "The Hidden Threat in Plain Text Attacking RAG Data Loaders.json",
+      "title": "The Hidden Threat in Plain Text: Attacking RAG Data Loaders",
+      "pages": 12,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 8
+    },
+    {
+      "filename": "Towards Hijacking the Actions of Large Language Model-based Applications.json",
+      "title": "2v70801.2142:viXra",
+      "pages": 19,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 13
+    },
+    {
+      "filename": "Towards Pervasive Distributed Agentic Generative AI–A State of The Art.json",
+      "title": "Towards Pervasive Distributed Agentic Generative AI - A",
+      "pages": 38,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 8
+    },
+    {
+      "filename": "Towards Secure MLOps Surveying Attacks, Mitigation Strategies, and Research Challenges.json",
+      "title": "Towards Secure MLOps: Surveying Attacks, Mitigation Strategies, and",
+      "pages": 35,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 8
+    },
+    {
+      "filename": "Towards Trustworthy Retrieval Augmented Generation for LargeLanguage Models A Survey.json",
+      "title": "Towards Trustworthy Retrieval Augmented Generation for Large",
+      "pages": 37,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 12
+    },
+    {
+      "filename": "Traceback of Poisoning Attacks to Retrieval-AugmentedGeneration.json",
+      "title": "Traceback of Poisoning Attacks to Retrieval-Augmented",
+      "pages": 13,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 7
+    },
+    {
+      "filename": "Unique Security and Privacy Threats of Large Language Models A Comprehensive Survey.json",
+      "title": "Unique Security and Privacy Threats of Large Language",
+      "pages": 36,
+      "tool": "pdfplumber",
+      "has_abstract": false,
+      "sections_count": 9
+    },
+    {
+      "filename": "When Compression Becomes an Attack Surface Black-Box.json",
+      "title": "When Compression Becomes an Attack Surface: Black-Box",
+      "pages": 12,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 6
+    },
+    {
+      "filename": "When LLMs meet cybersecurity a systematic literature review.json",
+      "title": "Zhang et al. Cybersecurity (2025) 8:55 Cybersecurity",
+      "pages": 41,
+      "tool": "pdfplumber",
+      "has_abstract": true,
+      "sections_count": 2
+    }
+  ]
+}

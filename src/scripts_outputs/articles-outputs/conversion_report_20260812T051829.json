@@ -1,0 +1,353 @@
+{
+  "timestamp": "2026-08-12T05:18:29.368216+00:00",
+  "converter_version": "2.0",
+  "folders_processed": [
+    "best-sources",
+    "all-sources-filtered"
+  ],
+  "total_pdfs_found": 49,
+  "total_converted": 49,
+  "total_converted_warnings": 0,
+  "total_skipped_idempotent": 0,
+  "total_failed": 0,
+  "remaining_unconverted": 10,
+  "remaining_files": [
+    {
+      "folder": "alt-sources",
+      "file": "AI_RMF_Playbook.pdf"
+    },
+    {
+      "folder": "alt-sources",
+      "file": "Benchmarking and Defending Against Indirect Prompt Injection Attacks on Large Language Models.pdf"
+    },
+    {
+      "folder": "alt-sources",
+      "file": "GenAI-Red-Teaming-Guide-1.0.2.17.25.pdf"
+    },
+    {
+      "folder": "alt-sources",
+      "file": "Ignore Previous Prompt Attack Techniques For.pdf"
+    },
+    {
+      "folder": "alt-sources",
+      "file": "NIST.AI.100-1.pdf"
+    },
+    {
+      "folder": "alt-sources",
+      "file": "OWASP-GenAI-LLM-Top-10-2026-v1.0.pdf"
+    },
+    {
+      "folder": "alt-sources",
+      "file": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.pdf"
+    },
+    {
+      "folder": "alt-sources",
+      "file": "Solutions-Landscape-Red-Teaming-Taxonomy-v.1.0.pdf"
+    },
+    {
+      "folder": "alt-sources",
+      "file": "State-of-Agentic-AI-Security-and-Governance-v2.01.pdf"
+    },
+    {
+      "folder": "alt-sources",
+      "file": "Universal and Transferable Adversarial Attacks on Aligned Language Models.pdf"
+    }
+  ],
+  "output_path": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs",
+  "details": [
+    {
+      "status": "converted",
+      "file": "A Layered Security Framework Against Prompt Injection.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\A Layered Security Framework Against Prompt Injection.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "A_Benchmarking_Study_of_Multi-Layer_Security_Filters_for_Secure_RAG_Pipelines.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\A_Benchmarking_Study_of_Multi-Layer_Security_Filters_for_Secure_RAG_Pipelines.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "A_Comprehensive_Framework_for_Secure_Multi-Agent_Retrieval-Augmented_Generation_Systems.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\A_Comprehensive_Framework_for_Secure_Multi-Agent_Retrieval-Augmented_Generation_Systems.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "ATAG AI-Agent Application Threat Assessment with Attack Graphs.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\ATAG AI-Agent Application Threat Assessment with Attack Graphs.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Automated adversarial red-teaming for evaluating robustness in LLM-based recommender systems.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Automated adversarial red-teaming for evaluating robustness in LLM-based recommender systems.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Clouding the Mirror Stealthy Prompt Injection Attacks Targeting.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Clouding the Mirror Stealthy Prompt Injection Attacks Targeting.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Cross-layer contagion of prompt injections in multi-agent swarms a multiplex microscopic markov chain approach.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Cross-layer contagion of prompt injections in multi-agent swarms a multiplex microscopic markov chain approach.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "EmoRAG Evaluating RAG Robustness to Symbolic Perturbations.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\EmoRAG Evaluating RAG Robustness to Symbolic Perturbations.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "FlippedRAG Black-Box Opinion Manipulation Adversarial Attacks to Retrieval-Augmented Generation Models.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\FlippedRAG Black-Box Opinion Manipulation Adversarial Attacks to Retrieval-Augmented Generation Models.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Indirect prompt injection in large language models.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Indirect prompt injection in large language models.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Multi-Agent AI Framework for Threat Mitigation and Resilience in Machine Learning Systems.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Multi-Agent AI Framework for Threat Mitigation and Resilience in Machine Learning Systems.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Phantom General Backdoor Attacks on Retrieval Augmented Language Generation.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Phantom General Backdoor Attacks on Retrieval Augmented Language Generation.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Quantifying Return on Security Controls in LLM.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Quantifying Return on Security Controls in LLM.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Securing LLM-as-a-Service for Small Businesses An IndustryCase Study of a Distributed Chatbot Deployment Platform.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Securing LLM-as-a-Service for Small Businesses An IndustryCase Study of a Distributed Chatbot Deployment Platform.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "The Hidden Threat in Plain Text Attacking RAG Data Loaders.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\The Hidden Threat in Plain Text Attacking RAG Data Loaders.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Towards Hijacking the Actions of Large Language Model-based Applications.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Towards Hijacking the Actions of Large Language Model-based Applications.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Towards Trustworthy Retrieval Augmented Generation for LargeLanguage Models A Survey.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Towards Trustworthy Retrieval Augmented Generation for LargeLanguage Models A Survey.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Traceback of Poisoning Attacks to Retrieval-AugmentedGeneration.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Traceback of Poisoning Attacks to Retrieval-AugmentedGeneration.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Trust-Aware_Orchestration_Architecture_for_LLM-Assisted_Workflows_in_Multi-Tenant_Enterprise_Systems.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Trust-Aware_Orchestration_Architecture_for_LLM-Assisted_Workflows_in_Multi-Tenant_Enterprise_Systems.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Veritas_Dynamic_Evaluation_Framework_for_Rag_Systems_Defense_Against_Prompt_Injection_Attacks.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\best-sources\\Veritas_Dynamic_Evaluation_Framework_for_Rag_Systems_Defense_Against_Prompt_Injection_Attacks.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "A Layered Security Framework Against Prompt Injection.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\A Layered Security Framework Against Prompt Injection.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "A survey on large language models with multilingualism recent advances and new frontiers.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\A survey on large language models with multilingualism recent advances and new frontiers.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "A survey on privacy risks and protection in large language models.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\A survey on privacy risks and protection in large language models.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "A systematic review of natural language interfaces for databases.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\A systematic review of natural language interfaces for databases.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "A Virtual Lab for Learning AI Security and Adversarial Prompt Engineering.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\A Virtual Lab for Learning AI Security and Adversarial Prompt Engineering.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "A_Benchmarking_Study_of_Multi-Layer_Security_Filters_for_Secure_RAG_Pipelines.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\A_Benchmarking_Study_of_Multi-Layer_Security_Filters_for_Secure_RAG_Pipelines.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "A_Comprehensive_Framework_for_Secure_Multi-Agent_Retrieval-Augmented_Generation_Systems.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\A_Comprehensive_Framework_for_Secure_Multi-Agent_Retrieval-Augmented_Generation_Systems.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "AI Agents Under Threat A Survey of Key Security Challenges and Future Pathways.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\AI Agents Under Threat A Survey of Key Security Challenges and Future Pathways.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Analysis of LLMs Against Prompt Injection and Jailbreak Attacks.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Analysis of LLMs Against Prompt Injection and Jailbreak Attacks.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "ATAG AI-Agent Application Threat Assessment with Attack Graphs.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\ATAG AI-Agent Application Threat Assessment with Attack Graphs.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Clouding the Mirror Stealthy Prompt Injection Attacks Targeting.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Clouding the Mirror Stealthy Prompt Injection Attacks Targeting.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "EmoRAG Evaluating RAG Robustness to Symbolic Perturbations.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\EmoRAG Evaluating RAG Robustness to Symbolic Perturbations.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Human-Imperceptible Retrieval Poisoning Attacks in LLM-Powered Applications.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Indirect prompt injection in large language models.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Indirect prompt injection in large language models.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Phantom General Backdoor Attacks on Retrieval Augmented Language Generation.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Phantom General Backdoor Attacks on Retrieval Augmented Language Generation.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Quantifying Return on Security Controls in LLM.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Quantifying Return on Security Controls in LLM.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Safeguarding large language models a survey.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Safeguarding large language models a survey.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Security and Privacy Challenges of Large Language Models A Survey.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Security and Privacy Challenges of Large Language Models A Survey.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Survey on LLM Safety Attacks, Defenses, Alignment, Metrics, and Guardrails.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Survey on LLM Safety Attacks, Defenses, Alignment, Metrics, and Guardrails.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "The Hidden Threat in Plain Text Attacking RAG Data Loaders.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\The Hidden Threat in Plain Text Attacking RAG Data Loaders.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Towards Hijacking the Actions of Large Language Model-based Applications.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Towards Hijacking the Actions of Large Language Model-based Applications.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Towards Pervasive Distributed Agentic Generative AI–A State of The Art.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Towards Pervasive Distributed Agentic Generative AI–A State of The Art.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Towards Secure MLOps Surveying Attacks, Mitigation Strategies, and Research Challenges.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Towards Secure MLOps Surveying Attacks, Mitigation Strategies, and Research Challenges.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Towards Trustworthy Retrieval Augmented Generation for LargeLanguage Models A Survey.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Towards Trustworthy Retrieval Augmented Generation for LargeLanguage Models A Survey.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Traceback of Poisoning Attacks to Retrieval-AugmentedGeneration.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Traceback of Poisoning Attacks to Retrieval-AugmentedGeneration.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "Unique Security and Privacy Threats of Large Language Models A Comprehensive Survey.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\Unique Security and Privacy Threats of Large Language Models A Comprehensive Survey.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "When Compression Becomes an Attack Surface Black-Box.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\When Compression Becomes an Attack Surface Black-Box.json",
+      "warnings": []
+    },
+    {
+      "status": "converted",
+      "file": "When LLMs meet cybersecurity a systematic literature review.pdf",
+      "output": "c:\\Users\\evers\\Desktop\\corporative-rag-research-picoc\\src\\scripts_outputs\\articles-outputs\\all-sources-filtered\\When LLMs meet cybersecurity a systematic literature review.json",
+      "warnings": []
+    }
+  ]
+}
