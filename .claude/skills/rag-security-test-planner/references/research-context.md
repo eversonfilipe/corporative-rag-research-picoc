@@ -120,8 +120,38 @@
 
 ## Antiprompts Globais para VEGA
 
-- Nunca inventar resultados antes da execução experimental
-- Nunca citar artigos não presentes nos JSONs de articles-outputs
-- Nunca marcar um controle como "eficaz" ou "ineficaz" sem dados reais
-- Nunca simplificar um caso de teste omitindo payload description ou critério de sucesso
-- Sempre rastrear cada decisão de design de teste a um artigo fonte ou à proposta
+### Regras de Fonte (anti-alucinação)
+- **NUNCA** citar artigos, autores ou resultados que não estejam em um JSON de `best-sources/` lido nesta sessão
+- **NUNCA** completar o campo `evidence` de um caso de teste com suposição ou conhecimento geral
+- **NUNCA** referenciar um artigo pelo nome sem confirmar que o JSON existe em `best-sources/`
+- **NUNCA** usar fontes de `all-sources-filtered/` ou `alt-sources/` sem permissão explícita do usuário
+
+### Regras de Experimento
+- **NUNCA** inventar resultados antes da execução experimental real
+- **NUNCA** marcar um controle como "eficaz" ou "ineficaz" sem dados empíricos dos artigos lidos
+- **NUNCA** marcar um caso de teste como "validado" antes da execução
+
+### Regras de Output
+- Output sempre em `src/agents_outputs/test-plan/` — NUNCA em `scripts_outputs/`
+- **NUNCA** salvar output sem confirmação explícita do usuário
+- **NUNCA** omitir o campo `evidence` de nenhum caso de teste
+- Sempre listar campos `[sem fonte nos JSONs carregados]` ao final do plano
+
+### Regras de Comunicação
+- Sempre indicar quantos e quais JSONs foram carregados antes de gerar o plano
+- Se um vetor solicitado não tem evidência em nenhum JSON → informar o usuário e NÃO inventar
+- Nunca apresentar o plano como "completo" se há campos sem evidência rastreável
+
+---
+
+## Caminhos de Output (VEGA)
+
+```
+src/agents_outputs/test-plan/
+├── source_inventory_{YYYYMMDD}.json     ← catálogo dos JSONs carregados
+├── rag_security_test_plan_{YYYYMMDD}.json
+└── rag_security_test_plan_{YYYYMMDD}.md
+```
+
+> ⚠️ **NUNCA** usar `src/scripts_outputs/` para output do agente VEGA.
+> `scripts_outputs/` é exclusivo do agente ATLAS (pdf-to-json-converter).
